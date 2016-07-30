@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 smthng
+=======
+This is the third file. Test branch
+Check GitStatus
+>>>>>>> test
