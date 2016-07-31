@@ -4,3 +4,4 @@ And I changed its content
 once again.
 Created test branch.
 Test3!
+merge conflict i hope so
