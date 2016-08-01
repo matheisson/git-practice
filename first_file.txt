@@ -7,4 +7,7 @@ Test3!
 merge conflict i hope so
 testing DIFF
 but nothing happens
+<<<<<<< HEAD
 cherry picking
+=======
+>>>>>>> 8932a63... DIFF checked
